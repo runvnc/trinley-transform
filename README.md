@@ -1,4 +1,4 @@
 # Trinley Transformation Technical Description
 
-![Screenshot](screenshot.png)
+![Sequence](tr2.png)
 
