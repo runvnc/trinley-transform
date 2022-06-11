@@ -15,5 +15,5 @@
 |NFTGEN | `cmdrun.mjs` | JavaScript|Node.js|Generates image with `char-gen`, pins to IPFS, and then fulfills the order using `nftgen.py` app.|
 |NFTGEN | `char-gen.ls` | LiveScript/P5.js | Docker (Sysbox): Node.js | Sysbox container running LiveScript code that uses the p5.js library to generate the image based on the trait definitions, images and code in `char` |
 |Trinley| `char` | JSON/Livescript | `char-gen.ls` | Schema that defines the trait variants, images, rarity, and code used to generate the character image.|
-|NFTGEN| `status.mjs` | JavaScript | Node.js | Simple status system called by `figures.html` to get order updates.|
+|NFTGEN| `status.mjs` | JavaScript | Node.js | Simple status system called by `figures.html` to get updates during order processing.|
 |NFTGEN| `algonfts.art` | HTML/JavaScript | Browser/Node.js | Interactive tool for uploading images, editing trait definitions and code saved to the `char` data file.|
