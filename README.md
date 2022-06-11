@@ -10,5 +10,5 @@
 |----------|-------------|---------------|---------|-----------|
 |Front End |figures.html   |HTML/JavaScript|Browser  ||
 |Front End |trinley.py  |Smart Contract |AVM      | |
-|Back End  |algonfts.mjs|JavaScript   |Node.js|       |         |   |
+<!-- |Back End  |algonfts.mjs|JavaScript   |Node.js|       |         |   | -->
 |  |  |
