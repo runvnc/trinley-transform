@@ -4,7 +4,7 @@
 
 ## System Components
 
-(Some minor simplifications and names changed for clarity)
+(Some simplifications and names changed for clarity)
 
 |Logical Part|Name|Type|Environment/VM Type| Description|
 |----------|-------------|---------------|---------|-----------|
