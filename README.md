@@ -16,6 +16,4 @@
 |NFTGEN | `char-gen.ls` | LiveScript/P5.js | Docker (Sysbox): Node.js | Sysbox container running LiveScript code that uses the p5.js library to generate the image based on the trait definitions and code in `char` |
 |Trinley App| `char` | JSON/Livescript | `char-gen.ls` | Schema that defines the trait variants, rarity, and code used to arrange the body parts.|
 |NFTGEN| `status.mjs` | JavaScript | Node.js | Simple status system called by `figures.html` to get order updates.|
-|NFTGEN| `algonfts.art` | HTML/JavaScript | Browser/Node.js | Interactive schema editor for trait and code definition to build the `char` data file.|
-
-
+|NFTGEN| `algonfts.art` | HTML/JavaScript | Browser/Node.js | Interactive tool for uploading images, editing trait definitions and code saved to the `char` data file.|
