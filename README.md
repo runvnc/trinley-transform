@@ -14,6 +14,7 @@
 |NFTGEN | `algofilter` | Shell (bash)|Ubuntu|Watches blockchain for calls to `nftgen.py` contract and executes `cmdrun.mjs` when found.|
 |NFTGEN | `cmdrun.mjs` | JavaScript|Node.js|Generates image with `char-gen`, pins to IPFS, and then fulfills the order using `nftgen.py` app.|
 |NFTGEN | `char-gen.ls` | LiveScript/P5.js | Docker (Sysbox): Node.js | |
+|Trinley App| `char` | JSON/Livescript | `char-gen.ls` | This is the schema that defines the trait variants, rarity, and code used to arrange the body parts|
 
 <!-- |Back End  |algonfts.mjs|JavaScript   |Node.js|       |         |   | -->
 
