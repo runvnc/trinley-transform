@@ -6,5 +6,6 @@
 
 |Name|Type|Location|Description|
 |----|-----|----------|-----------|
-|   |Front End (Browser) |      |
-|   |Frotm End (Smart Contract) | 
+|   |HTML/JavaScript|Front End      |
+|   |Smart Contract|Front End   |
+|   |JavaScript (Node.js)|Back End|
