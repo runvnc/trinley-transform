@@ -6,7 +6,7 @@
 
 (Some names changed for clarity)
 
-|Logical Part|Name|Type|VM Type| Description|
+|Logical Part|Name|Type|Environment/VM Type| Description|
 |----------|-------------|---------------|---------|-----------|
 |Front End |figures.html   |HTML/JavaScript|Browser  ||
 |Front End |trinley.py  |Smart Contract |AVM      | |
