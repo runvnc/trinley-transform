@@ -4,8 +4,8 @@
 
 ## System Components
 
-|Name|Type|Location|Description|
+|Name|Type|Part|VM Type| Description|
 |----|-----|----------|-----------|
-|   |HTML/JavaScript|Front End      |
-|   |Smart Contract|Front End   |
-|   |JavaScript (Node.js)|Back End|
+|Store Page|HTML/JavaScript|Front End|Browser||
+|customer.py|Smart Contract|Front End|AVM||
+|   |JavaScript|Back End|Node.js||
