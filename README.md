@@ -6,7 +6,7 @@
 
 (Some simplifications, such as module files omitted and names changed, for clarity)
 
-||Name/Part|Execution Environment| Description|
+|Name/Part|Execution Environment| Description|
 |----------|---------|-----------|
 |Trinley - `figures.html`   |Browser  |Store web page where users purchase and receive their figure transformation.|
 |Trinley - `trinley.py`  |AVM      |Smart contract used by `figures.html` to track user order state and send orders to `nftgen.py` app. |
