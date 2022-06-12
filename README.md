@@ -1,6 +1,6 @@
 # Trinley Transformation Technical Description
 
-![Sequence](tr2.png)
+![Sequence](https://github.com/runvnc/trinley-transform/blob/master/tr2.png)
 
 ## System Components
 
