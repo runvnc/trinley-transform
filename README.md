@@ -9,7 +9,7 @@
 ||Name/Part|Execution Environment| Description|
 |----------|---------|-----------|
 |Trinley - `figures.html`   |Browser  |Store web page where users purchase and receive their figure transformation.|
-|Trinley -`trinley.py`  |AVM      |Smart contract used by `figures.html` to track user order state and send orders to `nftgen.py` app. |
+|Trinley - `trinley.py`  |AVM      |Smart contract used by `figures.html` to track user order state and send orders to `nftgen.py` app. |
 |NFTGEN - `nftgen.py`  | AVM |Smart contract that receives the orders and fulfills them by minting and transferring to `trinley.py` app. |
 |NFTGEN - `algofilter` |Ubuntu|Watches blockchain for calls to `nftgen.py` contract and executes `cmdrun.mjs` when found.|
 |NFTGEN - `cmdrun.mjs` |Node.js|Generates image with `char-gen`, pins to IPFS, and then fulfills the order using `nftgen.py` app.|
